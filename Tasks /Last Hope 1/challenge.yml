@@ -1,4 +1,4 @@
-name: "Last Hope 1"
+name: "The Silent Canvas 1"
 author: "SH3G0"
 category: osint
 description: |-
@@ -11,6 +11,7 @@ Flag_Format:Securinets{Full_Name}
 
 flags:
   - Securinets{Samuel_Langley}
+
 
 
 
