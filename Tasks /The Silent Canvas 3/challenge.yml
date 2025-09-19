@@ -2,12 +2,16 @@ name: "The Silent Canvas 3"
 author: "SH3G0"
 category: osint
 description: |-
-Langley’s notes dwell on the hand behind the tapestry — the vision that brought the Lady and the Unicorn to life. He traced stylistic echoes, compared techniques, and searched for a signature that never seemed to appear. Perhaps someone’s name lies buried in history… or perhaps the artist’s identity was never meant to be known. Can u identify the artist behind the piece?
+Langley’s notes dwell on the hand behind the tapestry — the vision that brought the Lady and the Unicorn to life. 
+He traced stylistic echoes, compared techniques, and searched for a signature that never seemed to appear. 
+Perhaps someone’s name lies buried in history… or perhaps the artist’s identity was never meant to be known. 
+Can u identify the artist behind the piece?
 
 Flag Format: Securinets{ArtistName}
 
 flags:
   - Securinets{Anonymous}
+
 
 
 
