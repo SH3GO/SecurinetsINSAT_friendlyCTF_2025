@@ -1,7 +1,7 @@
 # SecurinetsINSAT_friendlyCTF_2025(Writeup)
 
 Task1: The Silent Canvas 0  
-We find a scrap of paper with the username HistoryBuff77.
+We find a scrap of paper with the username History_Buff7.
 Looking it up on X (Twitter), we find the account and see the real name in the bio → Samuel Langley.  
 <img width="938" height="878" alt="image" src="https://github.com/user-attachments/assets/67558ada-999f-46ac-92cb-3990fad56e89" />  
 Flag: Securinets{Samuel_Langley}  
