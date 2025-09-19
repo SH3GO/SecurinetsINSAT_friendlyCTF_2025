@@ -1,1 +1,1 @@
-# Securinets_friendlyCTF_2025
+# Securinets_friendlyCTF_2025(Writeup)
