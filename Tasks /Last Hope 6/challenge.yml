@@ -1,0 +1,13 @@
+name: "The Silent Canvas 5"
+author: "SH3G0"
+category: osint
+description: |-
+
+‘For those who see what no one else notices.‘
+ 
+Flag_Format:Securinets{Killer_Name}
+
+
+flags:
+  - Securinets{Marcel_Durand}
+
