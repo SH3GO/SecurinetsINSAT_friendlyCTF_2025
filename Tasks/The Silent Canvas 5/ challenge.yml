@@ -1,4 +1,4 @@
-name: "Last Hope 6"
+name: "The Silent Canvas 5"
 author: "SH3G0"
 category: osint
 description: |-
@@ -10,6 +10,7 @@ Flag_Format:Securinets{Killer_Name}
 
 flags:
   - Securinets{Marcel_Durand}
+
 
 
 
