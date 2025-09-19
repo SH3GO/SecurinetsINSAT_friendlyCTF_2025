@@ -23,8 +23,8 @@ Searching that quote leads to The Lady and the Unicorn tapestry.
 Flag: Securinets{The_Lady_And_The_Unicorn}  
 
 Task4: The Silent Canvas 3  
-Langley wondered who made the tapestry. When we check, we find that the artist is unknown/anonymous.
-Securinets{Anonymous}  
+Langley wondered who made the tapestry. When we check, we find that the artist is unknown/anonymous.  
+Flag: Securinets{Anonymous}  
 
 Task5: The Silent Canvas 4  
 Checking Langley’s X account reveals a suspicious tweet: “hope everybody saw it… couldn’t keep it for long.”
