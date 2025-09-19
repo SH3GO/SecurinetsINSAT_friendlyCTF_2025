@@ -9,11 +9,3 @@ Can u identify the artist behind the piece?
 
 Flag Format: Securinets{ArtistName}
 
-flags:
-  - Securinets{Anonymous}
-
-
-
-
-
-
