@@ -1,4 +1,4 @@
-# Securinets_friendlyCTF_2025(Writeup)
+# SecurinetsINSAT_friendlyCTF_2025(Writeup)
 
 Task1: The Silent Canvas 0  
 We find a scrap of paper with the username HistoryBuff77.
