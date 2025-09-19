@@ -1,4 +1,4 @@
-name: "Last Hope 3"
+name: "The Silent Canvas 2"
 author: "SH3G0"
 category: osint
 description: |-
@@ -15,6 +15,7 @@ Flag_Format:Securinets{Artwork_Name}
 
 flags:
   - Securinets{Lady_and_the_Unicorn}
+
 
 
 
