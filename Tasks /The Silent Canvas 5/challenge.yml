@@ -8,6 +8,5 @@ description: |-
 Flag_Format:Securinets{Killer_Name}
 
 
-flags:
-  - Securinets{Marcel_Durand}
+
 
